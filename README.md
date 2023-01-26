@@ -1,4 +1,4 @@
-# QVM Order
+# QVM Offer
 
 ## Installation
 1) Clone Repo
